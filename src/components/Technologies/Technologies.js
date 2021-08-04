@@ -33,13 +33,13 @@ const Technologies = () => (
         <picture></picture>
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
-          <ListParagraph style={{display: "flex", flexDirection: "row"}}>            <img src='           https://sandstorm.de/_Resources/Persistent/3/2/8/5/3285416e8503b2c8354c321bcd690cf550b8b2d3/React-Logo.svg
+          <ListParagraph>            <img src='           https://sandstorm.de/_Resources/Persistent/3/2/8/5/3285416e8503b2c8354c321bcd690cf550b8b2d3/React-Logo.svg
 ' width="38rem"/>
 
-             <img src='https://camo.githubusercontent.com/c8f91d18976e27123643a926a2588b8d931a0292fd0b6532c3155379e8591629/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67' width="40px"/>
+             <img src='https://camo.githubusercontent.com/c8f91d18976e27123643a926a2588b8d931a0292fd0b6532c3155379e8591629/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67' style={{maxHeight: '43px'}} width="40px"/>
              <img src='https://camo.githubusercontent.com/c241d33361366f3604367d7762ca67275cb986918ad4bcfac106b283444f0114/68747470733a2f2f7777772e6d61726b7573616e746f6e776f6c662e636f6d2f6d656469612f70616765732f626c6f672f7461696c77696e642d6373732f3236353239383438372d313539363637353034312f7461696c77696e642d6373732d6c6f676f2e737667' width="38rem"/>
-             <img src='https://avatars.githubusercontent.com/u/20658825?s=200&v=4' width="40px"/>
-             <img src='https://redux.js.org/img/redux.svg' width="40px"/>
+             <img src='https://avatars.githubusercontent.com/u/20658825?s=200&v=4' style={{maxHeight: '43px'}} width="35px"/>
+             <img src='https://redux.js.org/img/redux.svg' style={{maxHeight: '43px', marginRight:'50px'}} width="40px"/>
              <img src='https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/next_logo.png' width="40px"/>
           </ListParagraph>
         </ListContainer>
