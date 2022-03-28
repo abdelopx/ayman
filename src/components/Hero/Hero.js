@@ -9,11 +9,11 @@ const Hero = (props) => (
     <Section row nopadding>
       <LeftSection>
         <SectionTitle main center>
-         Full Stack Developer.
+         Cybersecurity engineer.
         </SectionTitle>
         <SectionText>
-Hey I'm Abdel 👋. Currently a college student I like to craft solid and scalable applications with great user experiences.</SectionText>
-<a style={{color: "white"}} href="https://srv-store3.gofile.io/download/df33cd92-3e90-4d37-a424-01d6afdd36e4/Abdellah's%20Resume%20(1).pdf"><Button onClick={props.handleClick}>Get Resume</Button></a>
+Hey I'm Ayman 👋. Currently a college student I like to craft solid and scalable applications with great user experiences.</SectionText>
+<a style={{color: "white"}} href="https://drive.google.com/file/d/1OhDr1pLX3t-Nn62loGV1EZiUwr_G2izp/view?usp=sharing"><Button onClick={props.handleClick}>Get Resume</Button></a>
       </LeftSection>
     </Section>
   </>

@@ -1,19 +1,5 @@
 export const projects = [
-  {
-    title: 'E-Commerce APP',
-    description: "E-Commerce website that allows its users to buy tech material.",
-      image: '/images/1.png',
-      tags: [{
-        name: 'Laravel',
-        img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png'
-      },{
-        name: 'PostreSQL',
-        img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png'
-      } ],
-    source: 'https://google.com',
-    visit: 'https://abdelberni.netlify.app/m',
-    id: 0,
-  },
+
   {
     title: 'HouseFlight',
     description:"A platform that allows its users to rent houses",
@@ -32,24 +18,7 @@ export const projects = [
     visit: 'https://houseflight.netlify.app',
     id: 1,
   },
-  {
-    title: 'Full invoice web app',
-    description: "Full Stack web application made for a company. Built using NextJS/React, Node JS/ExpressJS, PostgreSQL, Prisma...",
-    image: '/images/blurry1.png',
-    tags: [{
-      name: 'React',
-      img: 'https://sandstorm.de/_Resources/Persistent/3/2/8/5/3285416e8503b2c8354c321bcd690cf550b8b2d3/React-Logo.svg'
-    },{
-      name: 'Next JS',
-      img: 'https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/next_logo.png'
-    },{
-      name: 'Node JS',
-      img: 'https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png'
-    }, ],
-    source: 'https://google.com',
-    visit: 'https://abdelberni.netlify.app/',
-    id: 3,
-  },
+ 
   {
     title: 'Vetflix',
     description: "A clone of Netflix, Built using Vue JS (VueX, Vue Router...), Tailwind CSS and Firebase",
@@ -86,23 +55,15 @@ export const projects = [
     visit: 'https://disneyplusdemo.netlify.app/',
     id: 3,
   },
-  {
-    title: 'More on my github profile',
-    description: "",
-    image: 'https://avatars.githubusercontent.com/u/9919?s=280&v=4',
-    tags: [],
-    source: 'https://google.com',
-    visit: 'https://github.com/abdelopx',
-    id: 3,
-  },
+  
 ];
 
 export const TimeLineData = [
-  { year: 2018, text: 'Started learning', },
-  { year: 2018, text: 'Got into college', },
-  { year: 2019, text: 'Worked many projects using C / Java / Web technologies (Class projects / freelancing platforms)', },
-  { year: 2020, text: 'Learning new technologies...', },
-  { year: 2021, text: 'Started working as Full Stack Developer Intern in a company', },
-  { year: 2022, text: "Expected to graduate (Bachelor's Degree in Computer Science)  " },
+  { year: 2017, text: 'Baccalaureat Degree', },
+  { year: 2017, text: 'Got into preparatory classes ', },
+  { year: 2019, text: 'Got into ESAIP engineering school ', },
+  { year: 2020, text: 'Worked in the ministery on defense in Morocco', },
+  { year: 2022, text: 'Started working as a Web designer in moroccan company', },
+  { year: 2023, text: "Expected to graduate (Master's Degree in Computer Science)  " },
 
 ];

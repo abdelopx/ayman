@@ -20,8 +20,8 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:abdellahberni@gmail.com">
-            abdellahberni@gmail.com
+          <LinkItem href="mailto:echouhaidi@gmail.com">
+            echouhaidi@gmail.com
           </LinkItem>
         </LinkColumn>
       </LinkList>
@@ -30,10 +30,8 @@ const Footer = () => {
           <Slogan>Learning is the key of success !</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://github.com/abdelopx">
-            <AiFillGithub size="3rem" />
-          </SocialIcons>
-          <SocialIcons href="https://www.linkedin.com/in/abdellah-berni-b63836187/">
+          
+          <SocialIcons href="https://www.linkedin.com/in/aymane-echouhaidi-2b5201211/">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
         </SocialContainer>
